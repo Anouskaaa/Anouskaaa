@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anouskaaa</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anouskaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Anouskaaa" /> </p>
+<img align="right" src="https://animesher.com/orig/1/173/1733/17331/animesher.com_shigatsu-wa-kimi-no-uso-piano-miyazono-kaori-1733130.gif" width="190" height="175" />
 
 - 🔭 I’m currently working on **C++**
 
