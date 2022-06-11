@@ -1,5 +1,5 @@
 Hi 👋, I'm Anouskaaa
-<img align="right" src="https://thumbs.gfycat.com/HelplessBrilliantAustraliansilkyterrier.webp" width="100" height="100" />
+<img align="right" src="https://thumbs.gfycat.com/HelplessBrilliantAustraliansilkyterrier.webp" width="290" height="185" />
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **ENet Bespin**
