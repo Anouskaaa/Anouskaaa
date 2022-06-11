@@ -1,5 +1,5 @@
 Hi 👋, I'm Anouskaaa
-<img align="right" src="https://animesher.com/orig/1/173/1733/17331/animesher.com_shigatsu-wa-kimi-no-uso-piano-miyazono-kaori-1733130.gif" width="100" height="100" />
+<img align="right" src="https://thumbs.gfycat.com/HelplessBrilliantAustraliansilkyterrier.webp" width="100" height="100" />
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **ENet Bespin**
