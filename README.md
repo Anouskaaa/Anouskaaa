@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm RaidTheWeb</h1>
-<h3 align="center">OSDev, Web Developer, Low Level Systems Developer, and avid programmer.</h3>
+<h1 align="center">Hi 👋, I'm Anouskaaa</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
