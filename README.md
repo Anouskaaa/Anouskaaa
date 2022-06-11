@@ -1,5 +1,5 @@
 Hi 👋, I'm Anouskaaa
-<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
+<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100" height="100" />
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **ENet Bespin**
