@@ -1,4 +1,4 @@
-<img align="right" src="https://animesher.com/orig/1/173/1733/17331/animesher.com_shigatsu-wa-kimi-no-uso-piano-miyazono-kaori-1733130.gif" width="190" height="175" />
+<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e109d24c-7257-4398-a53c-98fba426c4c5/d8lnmam-2894a81f-4e78-414d-abdb-4b9d4246adfa.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMDlkMjRjLTcyNTctNDM5OC1hNTNjLTk4ZmJhNDI2YzRjNVwvZDhsbm1hbS0yODk0YTgxZi00ZTc4LTQxNGQtYWJkYi00YjlkNDI0NmFkZmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UYbgZsRoo0nosSQe2Z1q969ncWFu-XKUjUY8Mug69ls" width="190" height="175" />
 <h1 align="center">Hi 👋, I'm Anouskaaa</h1>
 
 - 🔭 I’m currently working on **C++**
