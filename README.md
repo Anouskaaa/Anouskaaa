@@ -1,6 +1,4 @@
-<h1>Hi 👋, I'm Anouskaaa </h1>
-<img align="right" src="https://thumbs.gfycat.com/HelplessBrilliantAustraliansilkyterrier.webp" width="290" height="185" />
-
+<h1>DucKr0s3 here </h1>
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **ENet Bespin**
