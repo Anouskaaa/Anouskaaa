@@ -1,7 +1,7 @@
 <h1>DucKr0s3 here </h1>
 - 🔭 I’m currently working on C++
 
-- 🌱 I’m currently learning **ENet Bespin**
+<!-- - 🌱 I’m currently learning **ENet Bespin** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
