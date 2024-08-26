@@ -1,5 +1,5 @@
 <h1>DucKr0s3 here </h1>
-- 🔭 I’m currently working on C++
+- 🔭 I’m currently working on 
 
 <!-- - 🌱 I’m currently learning **ENet Bespin** -->
 
